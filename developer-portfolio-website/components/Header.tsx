@@ -16,7 +16,7 @@ const Header: React.FC = () => {
 
   const navLinks = [
     { id: 'apps', title: 'Apps' },
-    { id: 'privacy', title: '스티커 크롭' },
+    { id: 'privacy', title: 'Privacy' },
     { id: 'support', title: 'Support' },
   ];
 
