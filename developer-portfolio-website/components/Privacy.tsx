@@ -24,7 +24,7 @@ const Privacy: React.FC = () => {
                 <p>업로드된 이미지는 서버로 전송되지 않으며, 모든 처리는 사용자 기기 내에서 이루어집니다.</p>
                 
                 <h2 className="text-xl font-bold mt-8 mb-2">4. 문의</h2>
-                <p>Instagram: <a href="https://instagram.com/zziraengi" target="_blank" rel="noopener noreferrer">@zziraengi</a></p>
+                <p>Instagram: <a href="mailto:contact@zziraengi.com" target="_blank" rel="noopener noreferrer">@zziraengi</a></p>
             </div>
           </div>
         </div>
