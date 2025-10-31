@@ -30,7 +30,7 @@ const placeholderApps: AppInfo[] = [
     icon: <StickerCropIcon />,
     name: '스티커 크롭 (Sticker Crop)',
     description: '사진을 스티커로 쉽게 잘라보세요. iMessage에서 친구, 가족과 공유하기 완벽합니다.',
-    storeUrl: 'https://apps.apple.com/kr/app/%EC%8A%A4%ED%8B%B0%EC%BB%A4-%ED%81%AC%EB%A1%AD/id6754418208',
+    storeUrl: 'https://apps.apple.com/kr/app/%EC%8A%A4%ED%8B%B0%EC%BB%A4-%ED%81%AC%EB%A1%AD/id6754418208?l=en-GB',
   },
   {
     icon: <CreativeSuiteIcon />,
